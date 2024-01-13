@@ -62,3 +62,12 @@ footer {
     }
   }
 
+.ofertasButton {
+    font-size: uppercase;
+    font-display: flex;
+}
+
+/* OFERTAS */
+.tituloOfertas {
+    font-size: 10rem solid;
+}
